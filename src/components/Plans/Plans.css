@@ -92,6 +92,7 @@
     border-radius: 4px;
     border: 2px solid #BEBEBE;
     background: #E7E7E7;
+    cursor: pointer;
 }
 
 .main__Rightsighns {
@@ -228,6 +229,7 @@
     border-radius: 4px;
     border: 2px solid #47BA68;
     background: #D7EDDD;
+    cursor: pointer;
 }
 
 .main__Rightsighns2 {
@@ -331,7 +333,7 @@
     border: 2px solid #BEBEBE;
     background-color: #f0f0f0;
     transition: background-color 0.3s ease;
-
+    cursor: pointer;
 }
 
 .main__rightInputContainer3:hover {
