@@ -1,0 +1,15 @@
+.main__container {
+    width: 100%;
+    height: auto;
+    background: url("/public/Back\ Ground.png"), lightgray 50% / cover no-repeat;
+    background-color: #172746;
+    display: flex;
+    gap: 250px;
+
+}
+
+
+
+
+
+
